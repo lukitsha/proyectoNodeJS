@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "title": "NVIDIA GeForce RTX 3080",
+      "description": "La tarjeta gráfica de última generación para juegos de alta gama.",
+      "code": "NV-RTX3080",
+      "price": 699.99,
+      "status": true,
+      "stock": 50,
+      "category": "Gaming",
+      "thumbnails": [
+        "https://i.blogs.es/213d7c/rtx3080ap/1366_2000.jpg"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "AMD Radeon RX 6900 XT",
+      "description": "Potente tarjeta gráfica para juegos y aplicaciones de renderizado.",
+      "code": "AMD-RX6900XT",
+      "price": 799.99,
+      "status": true,
+      "stock": 40,
+      "category": "Gaming",
+      "thumbnails": [
+        "https://http2.mlstatic.com/D_NQ_NP_949612-MLA73554724286_122023-O.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "NVIDIA GeForce GTX 1660 Super",
+      "description": "Excelente relación calidad-precio para juegos de nivel medio.",
+      "code": "NV-GTX1660S",
+      "price": 299.99,
+      "status": true,
+      "stock": 30,
+      "category": "Gaming",
+      "thumbnails": [
+        "https://http2.mlstatic.com/D_NQ_NP_986025-MLA33017018229_112019-O.webp"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "AMD Radeon RX 6700 XT",
+      "description": "Rendimiento excepcional para juegos AAA y VR.",
+      "code": "AMD-RX6700XT",
+      "price": 499.99,
+      "status": true,
+      "stock": 20,
+      "category": "Gaming",
+      "thumbnails": [
+        "https://www.amd.com/system/files/2021-03/700302-amd-radeon-6700xt-1260x709.jpg"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "NVIDIA GeForce RTX 3060",
+      "description": "Gráficos impresionantes para juegos de alta calidad a un precio accesible.",
+      "code": "NV-RTX3060",
+      "price": 399.99,
+      "status": true,
+      "stock": 35,
+      "category": "Gaming",
+      "thumbnails": [
+        "https://images.nvidia.com/aem-dam/Solutions/geforce/ampere/rtx-3060-ti/geforce-rtx-3060-ti-product-gallery-full-screen-3840-1-bl.jpg"
+      ]
+    }
+  ]
+  
