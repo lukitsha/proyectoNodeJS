@@ -38,7 +38,7 @@ router.get('/:pid', (req, res) => {
 // Ruta para agregar un nuevo producto
 router.post('/', (req, res) => {
     const { title, description, code, price, stock, category, thumbnails } = req.body;
-    const id = uuidv4(); // Generar un ID único
+    const id = uuidv4(); // Generar un ID único para evitar conflictos futuros
     const status = true;
     
     // Verificar que todos los campos obligatorios estén presentes
