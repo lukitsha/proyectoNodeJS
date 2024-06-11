@@ -1,6 +1,6 @@
-# eCommerce de Piezas Electrónicas
+# eCommerce de Piezas Electrónicas (Lekets Electronics Proyect)
 
-Este proyecto es un eCommerce desarrollado por [nombre] para la Comisión 69990 de BackEnd en Coder House. Está diseñado para la venta de piezas electrónicas como tarjetas gráficas, procesadores, placas base, etc.
+Este proyecto es un eCommerce desarrollado por Luca Gaido para la Comisión 69990 de BackEnd en Coder House. Está diseñado para la venta de piezas electrónicas como tarjetas gráficas, procesadores, placas base, etc.
 
 ## Funcionalidades
 
